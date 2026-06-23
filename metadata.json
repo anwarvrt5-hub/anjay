@@ -1,0 +1,6 @@
+{
+  "name": "KINGWAR UID GENERATOR",
+  "description": "Modern desktop simulator and fictitious UID generator dashboard with cybersecurity red neon theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
